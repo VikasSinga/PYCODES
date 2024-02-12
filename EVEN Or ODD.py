@@ -4,4 +4,4 @@ if i%2==0:
 elif i%2!=0:
     print("number is odd")
 else:
-    print("NULL OUTPtT")
+Gr    print("NULL OUTPtT")
