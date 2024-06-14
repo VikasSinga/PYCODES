@@ -6,3 +6,6 @@ elif Age < 60:
     print("Adult")
 else:
     print("Senior Citigen")
+
+
+    # thisn code for age calculator
