@@ -8,4 +8,4 @@ else:
     print("Senior Citigen")
 
 
-    # thisn code for age calculator
+    # thisn code for age 
